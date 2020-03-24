@@ -1,2 +1,2 @@
 # portofolio
-Repository for p
+Repository for portofolio
